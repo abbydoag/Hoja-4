@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Hoja4","l":"Calculator"},{"p":"Hoja4","l":"dubleList"},{"p":"Hoja4","l":"factory"},{"p":"Hoja4","l":"ICalculator"},{"p":"Hoja4","l":"IList"},{"p":"Hoja4","l":"IStack"},{"p":"Hoja4","l":"linkedList"},{"p":"Hoja4","l":"Main"},{"p":"Hoja4","l":"Stack"}];updateSearchResults();
